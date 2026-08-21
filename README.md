@@ -1,32 +1,23 @@
-# _javascript-package-template_
+# _Zanycavnas_
 
-<!-- [![npm package version badge.](https://img.shields.io/npm/v/change-me.svg)](https://npmjs.com/package/change-me) -->
-<!-- [![Open GitHub issues badge](https://img.shields.io/github/issues/bunnynabbit/change-me)](https://github.com/BunnyNabbit/change-me/issues) -->
-<!-- [![Coverage status badge.](https://coveralls.io/repos/github/BunnyNabbit/change-me/badge.svg?branch=main)](https://coveralls.io/github/BunnyNabbit/change-me?branch=main) -->
+Welcome to _Zanycanvas_, a new (unofficial) place for _Krazycanvas_!
 
-A template for _JavaScript_ packages. This is based on what I typically do when setting up a new package. This includes:
+## What was _Krazycanvas_?
 
-- A basic object-oriented project scaffold.
-- Tests using _Jest_.
-- Type checking on explicitly checked _JavaScript_ files.
-- GitHub Actions workflow for CI and releasing packages.
-- Preset contribution policies, disallowing use of generative AI for code generation.
-- Formatting plug-ins and configuration.
+_Krazycanvas_ was a game developed by [_Joe Crop_](https://www.joecrop.com/). Players able to draw and play within a seemingly endless canvas. With the user generated landscape was crystals to collect and doors to wander to. The doors weren't too useful, or at least I don't think so. But it's the art that mattered. The human expression in between the chaos as players were desperately trying to get a footing on and fall miles down. It was fun.
 
-## What's next?
+It was developed using _Adobe Flex_. Because of this, when _Adobe Flash_ was to expire at the start of 2020, the game's future was clear. And soon, it stopped being ran.
 
-- [ ] Review and edit `package.json`.
-- [ ] Update _pnpm_ with `corepack up`.
-- [ ] Yeet this README.
+## And what is _Zanycanvas_?
 
-## Make it yours
+While the client has been preserved, the same cannot be said for the server that handled various things. _Zanycanvas_ aims to not only be a server replacement, but a new home for _Krazycanvas_.
 
-For the uninitialized, this template is most likely not aligned to you. In this case, this template serves as a template for templates. Create a new repository with the template and customize it, replacing my name with yours. Some areas to check:
+A security consideration is also worth noting. I don't particularly want bad actors to mess up the canvas. As AI agents are readily available, the potential for abuse becomes more likely. Somehow, the original canvas survived prior to 2020. Only that the client has a bug that allows players to wipe tiles blank.
 
-- `package.json`.
-- `LICENSE`.
-- `README.md`.
+This is all just an idea for now. I want to carefully plan this out. No 'vibe coding' whatsoever! And yes, there is art in building backend services. Programming is inherently a skill, and it can be a craft.
 
-Make sure the repository is marked as a 'template repository' in its repository setting on GitHub.
+## Impatient?
 
-When the template repository is on your account, it will show up as an option when creating a new repository through https://github.com/new.
+_Krazycanvas_ is already preserved in the [_Flashpoint Archive_](https://flashpointarchive.org/), with some parts of the canvas available to explore. However, it remains there to be playable in singleplayer. _Zanycanvas_ will address the online multiplayer part later.
+
+It shouldn't be too long. Much of it was [already figured out](https://notes.bunnynabbit.com/Krazycanvas).
