@@ -8,6 +8,8 @@ _Krazycanvas_ was a game developed by [_Joe Crop_](https://www.joecrop.com/). Pl
 
 It was developed using _Adobe Flex_. Because of this, when _Adobe Flash Player_ was to expire at the start of 2020, the game's future was clear. And soon, it stopped being ran.
 
+This isn't to be confused with _DrawCanvas_ which was under the same name as _Krazycanvas_. As far as I know, that's mostly lost.
+
 ## And what is _Zanycanvas_?
 
 While the client has been preserved, the same cannot be said for the server that handled various things. _Zanycanvas_ aims to not only be a server replacement, but a new home for _Krazycanvas_.
