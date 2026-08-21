@@ -6,7 +6,7 @@ Welcome to _Zanycanvas_, a new (unofficial) place for _Krazycanvas_!
 
 _Krazycanvas_ was a game developed by [_Joe Crop_](https://www.joecrop.com/). Players were able to draw and play within a seemingly endless canvas. With the user generated landscape was crystals to collect and doors to wander to. The doors weren't too useful, or at least I don't think so. But it's the art that mattered. The human expression in between the chaos as players were desperately trying to get a footing on and fall miles down. It was fun.
 
-It was developed using _Adobe Flex_. Because of this, when _Adobe Flash_ was to expire at the start of 2020, the game's future was clear. And soon, it stopped being ran.
+It was developed using _Adobe Flex_. Because of this, when _Adobe Flash Player_ was to expire at the start of 2020, the game's future was clear. And soon, it stopped being ran.
 
 ## And what is _Zanycanvas_?
 
