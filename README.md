@@ -1,4 +1,4 @@
-# _Zanycavnas_
+# _Zanycanvas_
 
 Welcome to _Zanycanvas_, a new (unofficial) place for _Krazycanvas_!
 
